@@ -1,0 +1,43 @@
+---
+title: "Courses material"
+format: 
+  html: 
+    toc: true
+    html-math-method: katex
+    css: style.css
+---
+
+In this page you will be able to find lectures material of my courses
+
+***This page is work in progress***
+
+
+### INDE 360 Operations Research
+
+*Units: 4* \| Theory and application of deterministic and probabilistic optimization techniques. Topics selected from project management, networks, linear programming, non-linear programming, game theory and dynamic programming. Applications using specialized software.
+
+#### Lectures INDE 360:
+
+
+**Lecture 1:** TBD
+
+**Lecture 2:** TBD
+
+
+## ENGR 610 Analytical Methods In Engineering Management
+
+*Units: 3* \| An application-oriented course with emphasis on quantitative techniques in engineering management. Topics include: decision-making under uncertainty, Mathematical programming, risk analysis, network analysis, multi-criteria decision-making, and cost optimization. 
+
+
+#### Lectures ENGR 610:
+
+**Lecture 1:** TBD
+
+**Lecture 2:** TBD
+
+**
+
+
+
+
+

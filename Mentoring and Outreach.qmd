@@ -1,0 +1,55 @@
+---
+title: "Mentoring & Outreach Service"
+format: 
+  html: 
+    toc: true
+    html-math-method: katex
+    css: style.css
+  
+#![Alt text for the image](path/to/image.png "Optional title")
+#https://elixir-europe-training.github.io/ELIXIR-TrP-LiterateProgrammingR-CodeRep/chapters/Chapter_04/#step-3-visualizations-in-quarto-documents
+---
+
+## Outreach & Leadership Service
+
+
++ ***Panelist at 2024 INFORMS*** in the session ME60. MIF Life as a Ph.D. Student Panel \| **2024**
+
++ ***Panelist at 2023 INFORMS*** in the session ME60. MIF Life as a Ph.D. Student Panel \| **2023**
+
++ ***Panelist at 2023 Voices from the Field*** - University of Massachusetts - Amherst GEM GRAD Lab \| **2023**
+
++ ***Session Chair*** in the Energy, Natural Resources, and Environment section at 2022 INFORMS meeting in Indianapolis, IN \| **2022**
+
++ ***Outreach Volunteer and Panelist***, Engineering Engagement, Diversity, Equity and Inclusion,  College of Engineering, University of Massachusetts Amherst \| **2021 – 2022**
+
++ ***Panelist, Outreach Event Engineering Fun Day***, American Society of Engineering Education University of Puerto Rico Mayagüez \| **Spring 2018**
+
++ ***Coordinator of Outreach Event Engineering Fun Day!*** \| American Society of Engineering Education – UPRM Student Chapter \| **Description:** *One-day outreach event that successfully motivated 60 high school students to pursue engineering careers. The students were divided in team groups, different workshops and activities engineering-related were carried out. A panel for the parents conformed by Engineering Faculty Members, Economic Assistance Officer, Engineering Students, the Dean of Academic Affairs, and Dean of Engineering was offered.* \| [Link](https://www.hercampus.com/school/uprm/uprms-engineering-fun-day) \| **Spring 2017**
+
+
++ ***Coordinator of Trig Surveying CAMP*** \| Institute of Land Surveyors - UPRM Student Chapter, Mayagüez P.R.\| **Description:** *TrigSurveying CAMP's mission is to inspire high school students to pursue Land Surveying and Engineering studies with a pragmatic philosophy: ‘put theory in practice’. The camp, a five-day orientation program developed with fun insight and problem-solving ideas. The events motivated approximately 50 high school students to pursue engineering careers.* \|
+[Link](https://www.youtube.com/watch?v=Ge2C5nkyWnc) \| **Summer 2014 and Summer 2015**
+
+
++ ***Project Leader in Outreach Event WOW! That’s Engineering***, Society of Women Engineers -UPRM Student Chapter \| **Description**: *The event seeks to motivate girls from 10 to 17 years old to pursue a career in STEM field by hands-on projects. During this event, SWE received approximately 200 girls.* \| [Link 1](https://www.youtube.com/watch?v=8oNoRB8eD7o)
+[Link 2](https://www.youtube.com/watch?v=1jpFRFJbYT0) \| **2012-2014**
+
+
+
+
+## Mentoring
+
+**Independent Study and Special Projects**
+
++ [Priya Kruthi Gavini](https://www.linkedin.com/in/priya-kruthi-gavini-591246213/),  BS Industrial Engineering, Independent Study, University of Massachusetts Amherst (Advisor: Dr. Erin Baker). Priya Kruthi works in the the project Measuring performance and experience for learning curve. She focus in three main topic during the independent study: (1) Build learning curve projection models under different assumption , (2) Review the literature given this understanding of learning curves, and in the question (3) What should we use as unit of experience in wastewater treatment facilities (for water recycled)? \| ***Spring 2023***
+
+
++ [Kaitlin Fung](https://www.linkedin.com/in/kaitlin-fung/), BS Chemical Engineering, REU Research Fellow and Undergraduate Research Assistant, University of Massachussets Amherst (Advisor: Dr. Erin Baker). I was an external mentor. Kaitlin developed patent search algorithm to retrieve domain specific data sets to analyze cost trends and innovation activity with an application to wind energy. \| ***2020 – 2022***
+
+    Kaitlin's research paper: [Rethinking the patent domains: An application to wind energy](https://www.sciencedirect.com/science/article/abs/pii/S017221902300039X?via%3Dihub)
+
++ ***Gonzalo O. Garcia Rodriguez***, Undergraduate Research Special Project, University of Puerto Rico Mayagüez (Advisor: Dr. Mayra Mendez). Gonzalo worked in the literature review process of the project Engineering Decisional Model Approach for the Implementation of Bio-Digester in the Cattle-Livestock Industry of Puerto Rico. \|***Spring 2017***
+
+
+

@@ -1,0 +1,70 @@
+---
+title: "Teaching"
+subtitle: "Teaching Statement"
+image: phototeaching.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: solana
+  image-shape: round
+  
+
+---
+
+***"I believe that as a teacher I must make students realize that learning is a process of failing, success, and joy. It is also vital to make them recognize their commitment to humanity, help society fill the gaps, and provide immediate and practical solutions."***
+
+
+Teaching is one of the most important ways to create a lifelong learning experience and
+discover your inner potential. It provides a unique opportunity to share knowledge and exchange ideas in a favorable environment. Through teaching, we are able to name, identify, and come up with solutions to the problems we face in our personal lives and society at large. Research enables us to take what we have learned from the teaching experience and push the boundaries of knowledge to create meaningful changes in the world. Undoubtedly, teaching is one of the honorable professions that can bring positive change in society.
+
+Therefore, teaching is particularly vital to my mission. I have a diverse range of teaching experiences, spread over the course of about ten + years. I have thoroughly enjoyed my teaching experiences. 
+
+I teach a range of courses in the area of industrial engineering,operations research, data analytics and engineering management.
+
+Through teaching applied statistics and fundamental optimization concepts, I help my students avoid common quantitative and cognitive mistakes and, most importantly, to increase the range and creativity of the alternatives they apply to tackling problems. 
+
+The ranges of courses at the **U - Undergraduate** and **G - Graduate** level are the following.
+
+
+
+## California State University - East Bay (CSUEB)
+
+*Assistant Professor*
+
++ **INDE 360** Operations Research - U
+
++ **ENGR 610** Analytical Methods In Engineering Management - G 
+
+
+## University of Massachussets Amherst (UMass Amherst)
+
+*Lecturer in role, Teaching Associate, Teaching Fellow*
+
++ **RESECON 212** Introduction to Statistics for Social Scientist - U
+
++ **MIE 123** Engineering Economics - U
+
++ **MIE 532** Network Optimization - G
+
++ **MIE 621** Descriptive Analytics - G
+
++ **MIE 686** Multi-criteria Decision Making and Decision Analysis - G
+
++ **MIE 191** Seminar Topic:  Data All around Us (Introduction to Data Analysis with R) - U 
+
+
+## University of Puerto Rico - Mayaguez (UPRM)
+
+*Teaching Assistant*
+
++ **ININ 4010** Probability & Statistics for Engineers and Scientists - U  
+
++ **INGE 3016** Algorithms and Computer Programming - U
+
+## Mi Escuelita Learning Center, Puerto Rico
+
++ *Math and Sciences Highschool Teacher*
+
+## AmeriCorp member, Puerto Rico
+
++ *Math Tutor*
+
+

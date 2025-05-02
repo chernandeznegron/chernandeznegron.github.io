@@ -1,0 +1,92 @@
+---
+title: "Christian G. Hernandez-Negron"
+subtitle: "*Assistant Professor of Industrial Engineering, Analytics and Engineering Management*"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: chrishernandeznegron_headshot.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/christian-hern%C3%A1ndez-negr%C3%B3n-03/
+#Publish website : https://www.youtube.com/watch?v=nuYNCPRf8Js
+#Publish with Github: https://www.youtube.com/watch?v=wZ9pZOFSCko
+#https://www.youtube.com/watch?v=uimdXPZc40I&t=43s
+
+---
+## Welcome!##
+
+Hello there!, thank you for visiting my website. 
+
+I am an ***Assistant Professor of Industrial Engineering, Analytics and Engineering Management*** at [California State University - East Bay (CSUEB), School of Engineering](https://www.csueastbay.edu/engineering/). 
+
+I am interested in the science of decision-making, which relates to many professions and applicable to various domains. Each of us has a unique problem-solving style and problem solving is a blend of qualitative and quantitative techniques. I like to delve into mathematical models and apply decision-science methods to ask and answer exciting energy, environmental, and sustainability questions.
+
+I am a passionate academic and believer that education is indeed the key to unlocking the world, serving as a passport to freedom and opportunity. It is essential for achieving social and economic goals, as it empowers individuals to reach their full potential and contributes to a healthier, more equitable society. 
+
+
+***"Education is the key to unlock the golden door of freedom"***, - *George Washington Carver*
+
+
+## Summary about me and research interest:
+
+I did my PhD in [Industrial Engineering and Operations Research at the University of Massachusetts Amherst (UMass Amherst)](https://www.umass.edu/graduate/academics/industrial-engineering-and-operations-research), working under the Distinguished Professor [Dr. Erin Baker](https://www.umass.edu/engineering/about/directory/erin-baker) at the [Energy, Environment & Economic Decision Making | Baker's Research Group](https://websites.umass.edu/e3lab/) . During this time, I was also honored to receive a Distinguished Teaching Award nomination. 
+
+Prior to joining UMass Amherst, I earned a master’s degree MEng in Industrial Engineering and Management Sciences and hold a dual bachelor's degree in BSc in Civil Engineering, and BSc in Land Surveying and Topography from the University of Puerto Rico at Mayagüez.
+
+On the research side, I focus my research on analyzing energy system models, technology forecasting, innovation, and technological change (water and energy), decision-making under uncertainty, and understanding strategies for accelerating the sustainable (water and energy) transition.
+
+
+Broader interests include applied decision science, business analytics, statistical modeling, econometrics, transportation science and logistics, public policy analysis, climate change, sustainability, and interests and experience with household surveys or interviews.
+
+I love the outdoors, so if you cannot find me in my office or in a classroom, most likely I'm on a hike, running, or rowing.
+
+
+## Education
+
+**PhD**, Industrial Engineering and Operations Research \| UMass Amherst \| 2019 - 2024
+
+**MEng**,  Industrial Engineering and Management Sciences \| UPR- Mayagüez \| 2016 - 2018
+
+**BSc**, Civil Engineering \| UPR- Mayagüez \| 2009 - 2015 \| with Honors
+
+**BSc**, Land Surveying and Topography \| UPR- Mayagüez \|  2009- 2015 \| with Honors 
+
+## Current Appointments
+
+***Assistant Professor of Industrial Engineering, Analytics and Engineering Management*** \|CSUEB, School of Engineering | 2025 - Present
+
+***Research Group Director*** \| Decision-Making and Analytics Pioneers (D-MAP) Research Group Lab \| CSUEB, School of Engineering | 2025 - Present
+
+
+
+## Awards
+
++ **2024-25 Distinguished Teaching Award nominee**, Center for Teaching and Learning, UMass Amherst
+
++ **2024 William E. Heronemus Graduate**, Wind Energy Center, UMass Amherst
+
++ **Minority Issue Forum (MIF) award** to attend the 2021 INFORMS Annual Meeting and the Doctoral Student Colloquia
+
++ **NSF ELEVATE Affiliate** (Elevating Equity Values in the Transition of the Energy system) Affiliate [since 2021]
+
++ **Hispanic Scholarship Fund Scholar  (HSF- Scholar)** , [2019-2020], [2020-2021], [2021-2022]
+
++ **Wind Energy Fellow** – IGERT Program UMass Amherst [2019-2024]
+
++ **Spaulding – Smith Fellowship** – UMass Amherst 
+
++ **Armstrong Endowed Professorship Assistantship**
+
++ **2019 Graduate Education for Minorities (GEM) Fellowship - Full Fellow** ( sponsor: NREL)
+
++ **Honor Roll Student** conferred by the Department of Civil Engineering and Surveying, UPRM
+
++ **Engineering Honor Society Tau Beta Pi, PR-Alpha**
+
++ **Golden Key International Honor Society** [since 2012]            
+

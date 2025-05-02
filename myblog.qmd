@@ -1,0 +1,14 @@
+---
+title: "blog"
+listing:
+  contents: posts
+  sort: "datedesc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed: true
+page-layout: full
+title-blockbanner: true
+---
+    
